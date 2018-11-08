@@ -2,3 +2,4 @@ __py*
 venv
 *.pyc
 vm.log
+.DS_Store

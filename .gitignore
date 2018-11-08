@@ -1,0 +1,4 @@
+__py*
+venv
+*.pyc
+vm.log
